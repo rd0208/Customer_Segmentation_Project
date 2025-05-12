@@ -18,7 +18,6 @@ This project performs customer segmentation using unsupervised machine learning 
    - Cluster plot showing the segmented customers
 
 # Sample Plots
-![Cluster Plot](Income_vs_spending_score_scatter_plot.png)
 ![Cluster Plot](customer_segments_5_clusters.png)
 
 # Insights
